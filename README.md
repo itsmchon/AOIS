@@ -1,2 +1,2 @@
 # AOIS
-AOIS (Artificial Object Identifier System)
+AOIS (Object Identifier System)
